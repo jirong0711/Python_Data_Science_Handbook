@@ -6,7 +6,7 @@
 This repository is for the review of a book **_Python_Data_Science_Handbook_**.
 
 
-<h2> list-up </h2>
+<h2> Contents </h2>
 
 chapter | about 
 ---- | ---- 
