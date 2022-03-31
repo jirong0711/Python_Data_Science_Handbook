@@ -23,4 +23,4 @@ chapter | about
 
 
 - This is a special guide book for my first 'Python' travel.
-- Although I've learned python in terms of a data-manipulation language not a programming language, it is a good introduction book for python beginners. 
+- Although I've learned python in terms of a data-manipulation language not a programming language, I think it is a good introduction book for python beginners. 
